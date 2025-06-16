@@ -19,6 +19,9 @@
 - Datagram IP avec le protocole SIP
 - SCTP authentic purpose
 - SCTP vs TCP
+- TCP lié à IPSEC/TLS pour SIP ?
+- SCTP : Multihoming (redundancy)
+- SBC est le firewall ?
 - 
 
 
