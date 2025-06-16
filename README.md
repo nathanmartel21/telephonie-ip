@@ -9,6 +9,16 @@
 - Séparation of signalling and media description
 - Extensible
 - User plan (RTP, RTCP) et Control plan (SIP, SDP)
+- Media Gateway Control Serveur
+- VoIP : Master/slave protocole
+- H. 323
+- Skinny Client Control Protocol (Propriétaire cisco)
+- Data encapsulation
+- TOS field, Differentiated services
+- SIP can repeat his request
+- Datagram IP avec le protocole SIP
+- SCTP authentic purpose
+- SCTP vs TCP
 - 
 
 
