@@ -23,6 +23,7 @@
 - SCTP : Multihoming (redundancy)
 - SBC est le firewall ?
 - SigComp, SDP
+- SIP Adressing, SIP URL
 
 
 
