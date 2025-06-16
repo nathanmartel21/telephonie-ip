@@ -24,6 +24,11 @@
 - SBC est le firewall ?
 - SigComp, SDP
 - SIP Adressing, SIP URL
+- SIP : Initiate, modify and tear-down media session. Does not care about established media session
+- SIP INVITE, REGISTER, BYE, ACK, re-INVITE, CANCEL, OPTIONS, REFER, SUBSCRIBE, NOTIFY MESSAGE, INFO (compatibility)
+- Origine de SMS : c'était que l'opérateur puisse configurer le téléphone en envoyant des SMS
+- DTMF SIP
+- 
 
 
 
