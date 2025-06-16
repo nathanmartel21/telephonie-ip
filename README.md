@@ -22,7 +22,7 @@
 - TCP lié à IPSEC/TLS pour SIP ?
 - SCTP : Multihoming (redundancy)
 - SBC est le firewall ?
-- 
+- SigComp, SDP
 
 
 
