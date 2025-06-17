@@ -1,6 +1,10 @@
 ## Notes :
 
 - CSeq
+- Content-Type
+- Content-Length
+- Max-forwards
+- 
 
 
 
